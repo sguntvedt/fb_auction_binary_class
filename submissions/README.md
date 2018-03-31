@@ -1,1 +1,1 @@
-Running the `3_xgboost_tune.ipynb`.ipynb notebook will generate the csv file `submission1.csv` . Uploading this prediction onto https://www.kaggle.com/c/word2vec-nlp-tutorial produces a score of 91.976% accuracy.
+Running the `3_xgboost_tune.ipynb`.ipynb notebook will generate the csv file `submission1.csv` . Uploading this prediction onto https://www.kaggle.com/c/facebook-recruiting-iv-human-or-bot produces a score of 91.976% accuracy.
